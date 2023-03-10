@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirstApp01</string>
     <string name="app_title_01">Sample App</string>
+    <string name="app_button_log">Button Pressed</string>
 </resources>
